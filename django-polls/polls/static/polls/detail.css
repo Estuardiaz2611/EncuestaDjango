@@ -1,0 +1,15 @@
+h1{
+    color: white;
+}
+label{
+    color: white;
+    font-size: 25px;
+    font-family: fantasy;
+}
+body {
+    background: white url("images/background.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+       
+}
